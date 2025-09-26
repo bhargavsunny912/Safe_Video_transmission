@@ -1,0 +1,11 @@
+# Python virtual environment
+venv/
+env/
+
+# Python cache
+__pycache__/
+
+# Project-specific folders with large files
+uploads/
+decrypted/
+shares/
